@@ -1,4 +1,8 @@
-### Hi there 👋
+### christineswork
+
+#### created to show some personal projects, to expand my coding skills, or just for fun.
+#### :envelope: christinesbui15@gmail.com
+#### :bust_in_silhouette: https://www.linkedin.com/in/christine-bui-578b3a20b/
 
 <!--
 **christineswork/christineswork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
