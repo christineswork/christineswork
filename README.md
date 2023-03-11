@@ -1,7 +1,7 @@
 ### christineswork
 
 #### created to show some personal projects, to expand my coding skills, or just for fun.
-#### :envelope: christinesbui15@gmail.com
+#### :envelope: christinesbui15@gmail.com / christinesbui15@knights.ucf.edu
 #### :bust_in_silhouette: https://www.linkedin.com/in/christine-bui-578b3a20b/
 
 <!--
